@@ -13,5 +13,8 @@
 
       p {
        background-color: blue;
-       colo: black;
+       color: black;
+       border-style: solid;
+       border: 2px solid red;
+       border-radius: 5px;
        }
