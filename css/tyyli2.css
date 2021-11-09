@@ -12,9 +12,12 @@
         }
 
       p {
-       background-color: blue;
        color: black;
+       }
+
+     p span {
        border-style: solid;
        border: 2px solid red;
        border-radius: 5px;
+       background-color: blue;
        }
