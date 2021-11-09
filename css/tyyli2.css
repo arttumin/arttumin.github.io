@@ -1,1 +1,11 @@
+      body {
+        background-color: 231, 155, 139;
+        color: black;
+        }
 
+      h1 {
+        border-style: dotted;
+        border-width: 2px;
+        width: 100px;
+        height: 100px;
+        }
