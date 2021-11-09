@@ -16,6 +16,10 @@
        }
 
      p span {
+       padding-top: 25px;
+       padding-right: 15px;
+       padding-bottom: 25px;
+       padding-left: 40px;
        border-style: solid;
        border: 2px solid red;
        border-radius: 5px;
