@@ -36,9 +36,11 @@ section {
 .column-left {
   width: 25%;
   float: left;
+  background-color: #E7D5AA;
 }
 
 .column-right {
   width: 75%;
   float: right;
+  background-color: #AAABE7;
 }
