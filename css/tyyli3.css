@@ -11,11 +11,11 @@ header {
   font-size: 35px;
   color: black;
   
-.Linkit {
+nav {
   background-color: #AAD9E7;
   }
 
-.Linkit a {
+nav a {
   float: left;
   text-align: center;
   padding: 14px 16px;
