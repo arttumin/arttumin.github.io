@@ -9,16 +9,8 @@ nav {
     border-bottom: 3px solid black;
 }
   
-  .Linkit ol {
-    list-style-type: none;
-    padding-left: 0;
-}
 
-.sivut {
-    display: inline-block;
-}
-
-.sivut a::after {
+.sivut   {
     display: inline-block;
     color: #000;
     content: '>';
