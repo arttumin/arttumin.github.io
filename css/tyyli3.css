@@ -51,3 +51,11 @@ h2 {
   padding-bottom: 50px;
   padding-left: 80px;
 }
+
+a:link {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
