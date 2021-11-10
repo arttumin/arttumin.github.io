@@ -6,7 +6,7 @@ header {
   color: black;
   
 nav {
-    background-color: #AAD9E7
+    background-color: #AAD9E7;
 }
   
 
@@ -17,4 +17,8 @@ nav {
     font-size: 80%;
     font-weight: bold;
     padding: 0 3px;
-}
+    }
+
+  section {
+    background-color: #E7D5AA;
+    }
