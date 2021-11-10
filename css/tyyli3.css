@@ -26,6 +26,10 @@ section {
     }
 
 .column {
+    background-color: #E7D5AA;
+    }
+
+.column {
   float: left;
 }
 
