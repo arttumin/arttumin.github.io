@@ -24,3 +24,15 @@ nav a {
 section {
     background-color: #E7D5AA;
     }
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
