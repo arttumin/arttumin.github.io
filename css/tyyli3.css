@@ -11,10 +11,17 @@ header {
   font-size: 35px;
   color: black;
   
-nav {
-    background-color: #AAD9E7;
-}
-  
+.Linkit {
+  background-color: #AAD9E7;
+  }
+
+.Linkit a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
 
 .sivut   {
     color: black;
