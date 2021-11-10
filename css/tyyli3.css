@@ -17,9 +17,7 @@ nav {
   
 
 .sivut   {
-    display: inline-block;
     color: black;
-    font-size: 80%;
     font-weight: bold;
     padding: 0 3px;
     }
