@@ -33,10 +33,12 @@ section {
   float: left;
 }
 
-.left {
+.column-left {
   width: 25%;
+  float: left;
 }
 
-.right {
+.column-right {
   width: 75%;
+  float: right;
 }
