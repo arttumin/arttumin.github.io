@@ -1,1 +1,9 @@
+body {
+  background-color: azure;
+  font: 1.2em "Fira Sans", sans-serif;
+  }
 
+table, th, td {
+    border: 1px solid black;
+    background-color: antiquewhite;
+}
