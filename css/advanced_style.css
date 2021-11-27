@@ -3,3 +3,11 @@
   padding: 10px;
   box-shadow: 5px 10px;
 }
+
+h1 {
+    text-shadow: 2px 2px #ff0000;
+}
+
+h2 {
+  text-shadow: 3px 3px;
+}
