@@ -6,7 +6,11 @@
 
 h1 {
     text-shadow: 2px 2px #ff0000;
+    background: url"(https://cdn.pixabay.com/photo/2013/07/12/18/31/rainbow-colors-153443_1280.png)";
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
 h2 {
   text-shadow: 3px 3px;
