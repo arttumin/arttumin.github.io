@@ -24,3 +24,11 @@ color: hsl(36,50%,50%);
 a:hover {
 color: hsl(36,100%,50%);
 }
+
+@media screen and (max-width: 800px) 
+  {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
