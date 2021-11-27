@@ -6,7 +6,7 @@
 
 h1 {
     text-shadow: 2px 2px #ff0000;
-    background: url"(https://cdn.pixabay.com/photo/2013/07/12/18/31/rainbow-colors-153443_1280.png)";
+    background-image: url"(https://i.pinimg.com/originals/88/bc/17/88bc17927e35fce5bd133e102fb74b71.jpg)";
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,7 +17,7 @@ h2 {
 }
 
 a:link {
-transition: all .5s linear 0;
+transition: all 1s linear 1;
 color: hsl(36,50%,50%);
 }
 
