@@ -33,6 +33,25 @@ body
     float: right;
     display: block;
   }
+  
+ .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%
+}
+
+.etukuva {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
 }
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
