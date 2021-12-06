@@ -40,12 +40,10 @@ body
   justify-content: center
 }
 
-img {
-  max-width: 100%
-}
-
 .etukuva {
-  flex-basis: 40%
+  flex-basis: 40%;
+  width: 400px;
+  height: 500px;
 }
 
 .text {
