@@ -19,6 +19,51 @@
     <i class="fa fa-bars"></i>
   </a>
 </div>
+    
+    
+    <div class="valitus">
+  <form action="action_page.php">
+    <div class="row">
+      <div class="col-25">
+        <label for="fname">Koko nimesi</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="Kirjoita nimesi tähän..">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="lname">Sähköposti</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="Kirjoita sähköposti tähän..">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="country">Aihe</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="Ostopyyntö">Ostopyyntö</option>
+          <option value="Kysymys">Kysymys</option>
+          <option value="Valitus">Valitus</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="subject">Aihe</label>
+      </div>
+      <div class="col-75">
+        <textarea id="subject" name="subject" placeholder="Kirjoita aiheesi tähän.." style="height:200px"></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <input type="lähetä" value="Lähetä">
+    </div>
+  </form>
+</div>
 
   <div class="icon-bar">
   <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
