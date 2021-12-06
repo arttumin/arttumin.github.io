@@ -62,3 +62,9 @@ body
     text-align: left;
   }
 }
+.icon-bar{
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
