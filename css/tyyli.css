@@ -146,3 +146,7 @@ label {
   display: table;
   clear: both;
 }
+p {
+  padding-left:20px;
+  font-size:30px;
+  }
