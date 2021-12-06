@@ -1,1 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="css/tyyli.css" type="text/css">
+    <title> Infoa </title>
+    
+  </head>
+  <body>
+    <div class="topnav" id="myTopnav">
+    <a href="https://arttumin.github.io/index.html">Etusivu</a>
+    <a href="https://arttumin.github.io/sivu1.html" class="active">Infoa</a>
+    <a href="https://arttumin.github.io/sivu2.html">Tuotteet</a>
+    <a href="https://arttumin.github.io/sivu3.html">Tavoita meidät</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 
+   <script>
+     function myFunction() {
+     var x = document.getElementById("myTopnav");
+     if (x.className === "topnav") {
+     x.className += " responsive";
+     } else {
+        x.className = "topnav";
+    }
+  } 
+    </script>
+     
+  </body>
+  
+</html>
