@@ -66,14 +66,16 @@ body
   overflow: hidden;
   position: fixed;
   bottom: 0;
-  width: 25%;
+  width: 100%;
 }
 .icon-bar a {
+  float: left;
   display: block;
-  padding: 16px;
-  transition: all 0.3s ease;
   color: white;
-  font-size: 20px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 .icon-bar a:hover {
   background-color: #000;
